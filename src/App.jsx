@@ -6,13 +6,10 @@ import TipCalculator from './components/TipCalculator/TipCalculator'
 
 function App() {
 
-  
-
   return (
     <>
-      <div className="container">
-        <h1 className="text-center">Calculadora de Propinas</h1>
-        <div classNames="row justify-content-center">
+      <div className="container pt-5">
+        <div className="row justify-content-center">
           <div className="col-md-6">
             <div className="card shadow">
               <div className="card-body">
