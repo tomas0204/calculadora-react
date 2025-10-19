@@ -7,7 +7,7 @@ import TipCalculator from './components/TipCalculator/TipCalculator'
 function App() {
 
   return (
-    <>
+    <main data-bs-theme="dark">
       <div className="container pt-5">
         <div className="row justify-content-center">
           <div className="col-md-6">
@@ -19,7 +19,7 @@ function App() {
           </div>
         </div>
       </div>
-    </>
+    </main>
   )
 }
 

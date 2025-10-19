@@ -3,7 +3,7 @@ function BillInput({ bill, setBill }) {
     return (
         <>
             <div className="mb-3 input-group mb-3" >
-                <label className="form-label">Monto de la cuenta </label>
+                <label className="form-label">Monto Total </label>
                 <input
                     type="number"
                     className="form-control"
